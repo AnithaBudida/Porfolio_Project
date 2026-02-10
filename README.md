@@ -93,7 +93,7 @@ Screenshots:
 ## 📊 COVID-19 Global Analysis Dashboard
 
 ### Dashboard Preview
-![COVID-19 Dashboard](dashboard.png)
+![COVID-19 Dashboard](Screenshot%202026-02-10%20120235.png)
 
 
 Future Improvements:
