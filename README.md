@@ -90,7 +90,10 @@ c. Executive-level decision making
 
 Screenshots:
 
+## 📊 COVID-19 Global Analysis Dashboard
 
+### Dashboard Preview
+![COVID-19 Dashboard](dashboard.png)
 
 
 Future Improvements:
